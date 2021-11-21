@@ -1,5 +1,5 @@
 ## CUISINE-CHATBOT
-
+Retrieval based chatbot is build to give information of various cuisine using TF-IDF Vectorizer. The data collected from Wikipedia page Cuisine. WordNet corpus is used in text processing.
 
 ### STEPS INVOLVED
 1) IMPORT LIBRARIES: nltk, TfidfVectorizer (similarity matrix which incoporates relative frequency of terms across possible responses), string, random, bs4, cosine_similarity(match vectors), request and re
